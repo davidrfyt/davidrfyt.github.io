@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "davidrfyt.github.io"
+title                    : "DavidRFT - Blog de todo un poco"
 title_separator          : "-"
 name                     : "DavidRFYT"
 description              : "Posts about security, CTFs and networking"
