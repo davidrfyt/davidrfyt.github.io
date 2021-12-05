@@ -80,7 +80,7 @@ $dataJson = @file_get_contents("https://davidrf.es/assets/json/pokemon.json");
 
 ```
 
-Bien con esto tendriamos cargado en la variable $dataJson todo el contenido del archivo pokemon.json, ahora deberemos decodificar este archivo usando json_decode.
+Bien, con esto tendriamos cargado en la variable $dataJson todo el contenido del archivo pokemon.json, ahora deberemos decodificar este archivo usando json_decode.
 
 ```php
 
@@ -92,7 +92,7 @@ En este punto ya podríamos acceder a los datos del archivo JSON. Para acceder a
 
 Podriamos ver el contenido del JSON haciendo el uso de var_dump(). En este caso escribiriamos var_dump($dataItems); y nos mostraría en pantalla el contenido de dicho archivo.
 
-Bien siguiendo con el ejercicio para acceder al nombre del primer pokémon usariamos el siguiente código:
+Bien, siguiendo con el ejercicio para acceder al nombre del primer pokémon usariamos el siguiente código:
 
 ```php
 
@@ -106,7 +106,7 @@ Para terminar este ejercicio he recorrido con un bucle todos los datos de JSON m
 
 ![](/assets/images/12_2021/pokemons.png)
 
-El codigo usado para el anterior ejemplo es este:
+El código usado para el anterior ejemplo es este:
 
 ```php
 
