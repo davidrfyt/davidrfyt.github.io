@@ -1,13 +1,17 @@
 ---
 layout: single
 title: Leer JSON desde PHP
-excerpt: ""
+excerpt: "¿Qué es un archivo JSON?
+
+Un archivo JSON es un formato de texto sencillo usado para el intercambio de datos.
+
+Un pequeño ejemplo de JSON sería:"
 date: 2021-12-05
 classes: wide
 header:
   teaser: /assets/images/12_2021/json.png
   teaser_home_page: true
-  icon: /assets/images/12_2021/json.png
+  icon: /assets/images/php.png
 categories:
   - PHP
   - JSON
