@@ -1,11 +1,13 @@
 ---
 layout: single
 title: Efecto de nieve para tu web
-excerpt: ""
+excerpt: "En épocas de navidad los webmasters solemos poner algún efecto navideño en nuestros sitios web.
+
+Para ello podemos usar jQuery y JavaScript para adornar nuestro sitio web con copos de nieve, en este post te enseñaré como poner los copos de nieve en tu sitio web."
 date: 2021-12-20
 classes: wide
 header:
-  teaser: /assets/images/12_2021/json.png
+  teaser: /assets/images/12_2021/snowflake.jpg
   teaser_home_page: true
   icon: /assets/images/js.png
 categories:
@@ -14,7 +16,7 @@ tags:
   - JAVASCRIPT
 ---
 
-![](/assets/images/12_2021/snowflake.png)
+![](/assets/images/12_2021/snowflake.jpg)
 
 En épocas de navidad los webmasters solemos poner algún efecto navideño en nuestros sitios web.
 
