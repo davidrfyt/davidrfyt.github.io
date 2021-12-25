@@ -1,7 +1,11 @@
 ---
 layout: single
 title: Crea tu propio reverse proxy
-excerpt: ""
+excerpt: "Un reverse proxy como indica el nombre es un proxy y este sirve para esconder la IP real de tu servidor. Es decir si alguien le hace un ping a tu dominio devolverá tu IP de servidor. Instalándole un proxy devolverá la IP del proxy y nunca la IP original.
+
+Esto puede servidor para evitar ataques directos a tu servidor, para evitar denuncias DMCA en webs de películas, etc.
+
+Esta guía esta orientada para el sistema operativo CentOS 7, nos conectaremos como root y seguiremos estos pasos."
 date: 2021-12-25
 classes: wide
 header:
