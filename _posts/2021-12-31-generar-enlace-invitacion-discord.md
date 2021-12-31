@@ -30,7 +30,7 @@ Seguidamente, nos iremos hacia Widget en el menú de la izquierda, habilitaremos
 
 La id del servidor la necesitaremos para más adelante, apuntarla si queréis para no volver abrir las opciones del servidor luego.
 
-Ahora paremos al código PHP
+Ahora pasaremos al código PHP
 
 ```php
 <?php
